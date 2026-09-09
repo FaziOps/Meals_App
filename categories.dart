@@ -11,7 +11,6 @@ class CategoriesScreen extends StatefulWidget {
    // required this.onToggleFavorite,
     required this.availableMeals,
     });
-  //final void Function(Meal meal) onToggleFavorite;
   final List<Meal> availableMeals;
 
   @override
