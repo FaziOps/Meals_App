@@ -47,7 +47,4 @@ The Meals App provides a clean and engaging interface for exploring recipes and 
 
 Note: This project is developed for academic purposes to demonstrate Flutter app development, navigation, and state management.
 
-Screenshots:
-
-<img width="454" height="840" alt="Screenshot 2026-04-26 at 11 35 54 PM" src="https://github.com/user-attachments/assets/0d69b145-112e-4a63-9345-bed1f1ab7fe1" />
 
