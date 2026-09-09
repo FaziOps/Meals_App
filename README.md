@@ -44,6 +44,7 @@ Muhammad Faizan (Software Engineering Student)
 🖥 App Overview
 
 The Meals App provides a clean and engaging interface for exploring recipes and managing personal food preferences efficiently.
+
 Note: This project is developed for academic purposes to demonstrate Flutter app development, navigation, and state management.
 
 Screenshots:
