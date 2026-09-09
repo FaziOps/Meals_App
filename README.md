@@ -22,13 +22,13 @@ UI Design: Built responsive and visually appealing layouts
 
 Meals App
 
-├── main.dart           # Entry point and route configuration
+├── main.dart                  # Entry point and route configuration
 
-├── models/             # Meal and category data models
+├── models/                    # Meal and category data models
 
-├── screens/            # Different app screens (categories, meals, details)
+├── screens/                   # Different app screens (categories, meals, details)
 
-├── widgets/            # Reusable UI components
+├── widgets/                   # Reusable UI components
 
 └── README.md           # Documentation
 
