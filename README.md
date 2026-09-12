@@ -24,7 +24,9 @@ Meals App
 
 ├── main.dart                  # Entry point and route configuration
 
+
 ├── models                     # Meal and category data models
+
 
 ├── screens                    # Different app screens (categories, meals, details)
 
@@ -33,7 +35,6 @@ Meals App
 
 
 └── README.md                  # Documentation
-
 
 🎯 Key Features
 
